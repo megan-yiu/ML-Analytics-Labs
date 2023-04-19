@@ -1,1 +1,2 @@
-Using linear learner and ANN
+Using linear learner and ANN for multilinear regression in sagemaker 
+to predict medical charges based on various factors (bmi, age, # of children, region, sex, and whether client is a smoker or not)
